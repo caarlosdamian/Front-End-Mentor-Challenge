@@ -14,6 +14,44 @@ img {
 ul {
   list-style: none;
 }
+.container {
+  display: flex;
+  align-items: center;
+  flex-direction: column;
+  justify-content: center;
+  min-height: 70vh;
+}
+.container h1 {
+  color: white;
+  font-size: 24px;
+  text-transform: uppercase;
+  letter-spacing: 2px;
+  margin-bottom: 30px;
+}
+.countDown {
+  display: flex;
+  align-items: center;
+  text-align: center;
+  justify-content: space-around;
+}
+.countDown div {
+  margin: 10px;
+}
+
+.countDown p {
+  padding: 20px;
+  background-color: hsl(236, 21%, 26%);
+  border-radius: 5px;
+  color: hsl(345, 95%, 68%);
+  font-size: 46px;
+}
+.countDown h3 {
+  color: hsl(237, 18%, 59%);
+  margin-top: 10px;
+  text-transform: uppercase;
+  letter-spacing: 2px;
+  font-size: 16px;
+}
 .starts {
   position: absolute;
 }
@@ -25,8 +63,10 @@ ul {
   position: absolute;
   bottom: 30px;
   left: 50%;
+  transform: translateX(-50%);
   z-index: 999;
 }
+
 .socials ul {
   display: flex;
 }
