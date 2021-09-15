@@ -37,7 +37,7 @@ function App() {
         <div className="starts">
           <img src={Starts} alt="" />
         </div>
-        <h1>We're launching soon</h1>
+        <h1>Fly to Paris</h1>
         <div className="countDown">
           <div>
             <p>{days}</p>
