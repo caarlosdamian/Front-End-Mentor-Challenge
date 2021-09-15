@@ -3,6 +3,9 @@
   padding: 0;
   box-sizing: border-box;
   font-family: "Red Hat Text", sans-serif;
+  color: aliceblue;
+}
+body {
   background-color: hsl(235, 16%, 14%);
 }
 img {
@@ -18,8 +21,17 @@ ul {
   position: absolute;
   bottom: 0;
 }
-.wrapper {
-  position: relative;
+.socials {
+  position: absolute;
+  bottom: 30px;
+  left: 50%;
+  z-index: 999;
+}
+.socials ul {
+  display: flex;
+}
+.socials li {
+  margin: 0 20px;
 }
 
 @media (min-width: 1600px) {
