@@ -1,0 +1,27 @@
+{
+  "files": {
+    "main.css": "/Front-End-Mentor-Challenge/static/css/main.bb4b92a2.chunk.css",
+    "main.js": "/Front-End-Mentor-Challenge/static/js/main.d518af4e.chunk.js",
+    "main.js.map": "/Front-End-Mentor-Challenge/static/js/main.d518af4e.chunk.js.map",
+    "runtime-main.js": "/Front-End-Mentor-Challenge/static/js/runtime-main.5de8c012.js",
+    "runtime-main.js.map": "/Front-End-Mentor-Challenge/static/js/runtime-main.5de8c012.js.map",
+    "static/js/2.51c044f3.chunk.js": "/Front-End-Mentor-Challenge/static/js/2.51c044f3.chunk.js",
+    "static/js/2.51c044f3.chunk.js.map": "/Front-End-Mentor-Challenge/static/js/2.51c044f3.chunk.js.map",
+    "static/js/3.349dcb3f.chunk.js": "/Front-End-Mentor-Challenge/static/js/3.349dcb3f.chunk.js",
+    "static/js/3.349dcb3f.chunk.js.map": "/Front-End-Mentor-Challenge/static/js/3.349dcb3f.chunk.js.map",
+    "index.html": "/Front-End-Mentor-Challenge/index.html",
+    "static/css/main.bb4b92a2.chunk.css.map": "/Front-End-Mentor-Challenge/static/css/main.bb4b92a2.chunk.css.map",
+    "static/js/2.51c044f3.chunk.js.LICENSE.txt": "/Front-End-Mentor-Challenge/static/js/2.51c044f3.chunk.js.LICENSE.txt",
+    "static/media/bg-stars.166881a1.svg": "/Front-End-Mentor-Challenge/static/media/bg-stars.166881a1.svg",
+    "static/media/facebook.a9208377.svg": "/Front-End-Mentor-Challenge/static/media/facebook.a9208377.svg",
+    "static/media/instagram.b94ff26a.svg": "/Front-End-Mentor-Challenge/static/media/instagram.b94ff26a.svg",
+    "static/media/pattern-hills.815d688f.svg": "/Front-End-Mentor-Challenge/static/media/pattern-hills.815d688f.svg",
+    "static/media/pinterest.ea0db8e7.svg": "/Front-End-Mentor-Challenge/static/media/pinterest.ea0db8e7.svg"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.5de8c012.js",
+    "static/js/2.51c044f3.chunk.js",
+    "static/css/main.bb4b92a2.chunk.css",
+    "static/js/main.d518af4e.chunk.js"
+  ]
+}
