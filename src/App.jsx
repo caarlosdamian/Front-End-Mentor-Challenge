@@ -14,7 +14,7 @@ function App() {
   const [counter, setCounter] = useState(0);
   const countdown = () => {
     const now = new Date();
-    const endDate = new Date("Oct 08 2021 00:00:00").getTime();
+    const endDate = new Date("Jan 01 2022 00:00:00").getTime();
     const difference = endDate - now;
     const seconds = 1000;
     const minutes = seconds * 60;
@@ -37,7 +37,7 @@ function App() {
         <div className="starts">
           <img src={Starts} alt="" />
         </div>
-        <h1>Fly to Paris</h1>
+        <h1>New Year 2022</h1>
         <div className="countDown">
           <div>
             <p>{days}</p>
